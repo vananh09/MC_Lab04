@@ -1,0 +1,13 @@
+scheduler.c:16:6:SCH_Init	16	static
+scheduler.c:31:6:SCH_Update	4	static
+scheduler.c:42:6:SCH_Dispatch_Tasks	48	static
+scheduler.c:72:10:SCH_Add_Task	40	static
+scheduler.c:119:9:SCH_Delete_Task	24	static
+scheduler.c:146:10:qpush	8	static
+scheduler.c:154:9:qpop	8	static
+scheduler.c:166:6:Timer_Init	4	static
+scheduler.c:169:6:Watchdog_Init	4	static
+scheduler.c:172:6:SCH_Report_Status	4	static
+scheduler.c:178:6:SCH_Go_To_Sleep	4	static
+scheduler.c:182:6:SCH_Shift_Right	32	static
+scheduler.c:194:6:SCH_Shift_Left	32	static
